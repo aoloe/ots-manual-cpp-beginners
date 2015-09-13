@@ -5,7 +5,7 @@
 ### Windows
 
 - Visual Studio
-- ... (free IDE)
+- MinGW GCC
 - (Eclipse ?)
 - cygwin
 - virtualbox with a linux distributino
