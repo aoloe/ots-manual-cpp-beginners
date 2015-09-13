@@ -2,6 +2,14 @@
 
 ## Install
 
+### Linux
+
+#### Debian / Ubuntu
+
+~~~
+sudo apt-get install g++
+~~~
+
 ### Windows
 
 - Visual Studio
