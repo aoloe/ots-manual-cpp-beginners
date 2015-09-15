@@ -46,6 +46,18 @@ Run the executable that has been created:
 $ ./hello
 ~~~
 
+On your terminal you should now see a new line with
+
+~~~
+Hello World
+~~~
+
+If something else happens (and this is very likely to happen!) please make sure that you have exactly followed the steps above: every single letter matters!
+
+Some of the issues you might have had:
+
+- In the terminal, you're not in the same directory where you have saved the `hello_world.cpp` file. You can check for it by running the `ls` command in the terminal. If the file is not there, the best option is to close the current terminal, open a new one and redo the steps above.
+
 ### What has happened?
 
 
