@@ -12,12 +12,12 @@ In order to best enjoy this manual a few requirements should be met:
 
 ## Hello world
 
-with the text editor create the text file `hello_world.cpp`:
+We will start by using the text editor to create the text file `hello_world.cpp`.
 
-### Writing the Hello world program
+### Writing the Hello World program
 
 ~~~
-// This program outputs the message "Hello world"
+// This program outputs the message "Hello World"
 #include <iostream>
 
 int main() {
@@ -28,7 +28,7 @@ int main() {
 
 Save it in a place where you can find it later.
 
-### Running the Hello world
+### Running the Hello World
 
 Go to the terminal and `cd` to the directoy where you have saved the `hello_world_cpp` file.
 
