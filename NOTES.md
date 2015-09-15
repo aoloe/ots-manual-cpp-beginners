@@ -7,7 +7,8 @@ In order to best enjoy this manual a few requirements should be met:
 - You need a computer (basically, any computer with Linux, OS X or Windows are ok; tablets and smart phones are not)
 - For the first steps, you should at least have software for editing a text file, compiling it and running in a terminal the program you have written in a terminal. If you're not sure about it, please have a look at the [Install](#install) chapter towards the end of this manual.
 - Once you have done your first experiences, you have a development environment that feels comfortable for you.
-- You should know what a text file is. If your not sure about it, please have a look at the [Glossary](#glossary)
+- You should know what a text file is and how to edit it. If your not sure about it, please have a look at [Using a text editor](#Using-a-text-editor) chapter at the end of this manual.
+- You should know how to use a terminal  If your not sure about it, please have a look at [Using a terminal](#Using-a-terminal) chapter at the end of this manual.
 
 ## Hello world
 
@@ -23,13 +24,23 @@ int main() {
 }
 ~~~
 
-compiling:
+Save it in a place where you can find it later.
+
+Go to the terminal and `cd` to the directoy where you have saved the `hello_world_cpp` file.
+
+Compile the file:
 
 ~~~
 $ g++ -o hello hello_world.cpp
 ~~~
 
-running:
+Now, in your directory you should have a file `hello` next to the `hello_world.cpp` file.
+
+Run the executable that has been created:
+
+~~~
+$ ./hello
+~~~
 
 ## Source code and executables
 
@@ -94,6 +105,18 @@ sudo apt-get install g++
 - (Eclipse ?)
 - cygwin
 - virtualbox with a linux distributino
+
+## Using a text editor
+
+## Using the terminal
+
+- cd
+- ls
+- using the tab
+- rm and rmdir
+- running a program (`less hello_world.cpp`, `./hello` as you learn in the [Hello world](#hello-world) chapter.
+
+for more link to a real terminal manual.
 
 ## Glossary
 
