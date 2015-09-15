@@ -14,6 +14,8 @@ In order to best enjoy this manual a few requirements should be met:
 
 with the text editor create the text file `hello_world.cpp`:
 
+### Writing the Hello world program
+
 ~~~
 // This program outputs the message "Hello world"
 #include <iostream>
@@ -25,6 +27,8 @@ int main() {
 ~~~
 
 Save it in a place where you can find it later.
+
+### Running the Hello world
 
 Go to the terminal and `cd` to the directoy where you have saved the `hello_world_cpp` file.
 
@@ -41,6 +45,9 @@ Run the executable that has been created:
 ~~~
 $ ./hello
 ~~~
+
+### What has happened?
+
 
 ## Source code and executables
 
