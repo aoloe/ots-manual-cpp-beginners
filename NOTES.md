@@ -81,6 +81,7 @@ The are two other important parts of this first program:
 - `#include <iostream>`
 - `int main()`
 - `{` ... `}`
+- `;`: each command must be terminated by a `;`; the definition of `main()` and the `#include` are not commands.
 
 ## Source code and executables
 
