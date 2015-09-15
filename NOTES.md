@@ -60,6 +60,27 @@ Some of the issues you might have had:
 
 ### What has happened?
 
+The following is the core of our program:
+
+~~~
+    cout << "Hello World\n";
+~~~
+
+The `<<` operator sends the `Hello World` litteral to the standard output stream called `cout`.
+
+It's very likely that the description above contains several terms that you don't fully understand:
+
+- "operator",
+- "litteral",
+- "standard output"
+
+It's the goal of this manual is to teach you those terms and many other concepts. For now what you should retain is: "Hello World" gets printed on your terminal.
+
+The are two other important parts of this first program:
+
+- `#include <iostream>`
+- `int main()`
+- `{` ... `}`
 
 ## Source code and executables
 
