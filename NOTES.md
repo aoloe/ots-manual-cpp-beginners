@@ -85,6 +85,15 @@ The are two other important parts of this first program:
 
 ## Source code and executables
 
+## Writing good source code
+
+It's never too early to get good habits:
+
+- keep your code as short as possible
+- properly indent your code
+- comment your code (but do not comment each line; put your comments before the part of code you want to describe)
+- choose good names (well the author of c++ could have called `main` anything that he had liked... we will often need to choose names)
+
 ## Install
 
 ### The basics
