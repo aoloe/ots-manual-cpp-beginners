@@ -60,7 +60,13 @@ Some of the issues you might have had:
 
 ### What has happened?
 
-The following is the core of our program:
+Our program is composed by:
+
+- an `include` directive;
+- the definition of the `main()` function;
+- a command that outputs "Hello World".
+
+The core of our program is:
 
 ~~~
     cout << "Hello World\n";
