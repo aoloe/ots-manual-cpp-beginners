@@ -20,6 +20,8 @@ We will start by using the text editor to create the text file `hello_world.cpp`
 // This program outputs the message "Hello World"
 #include <iostream>
 
+using namespace std;
+
 int main() {
     cout << "Hello World\n";
     return 0;
@@ -56,7 +58,8 @@ If something else happens (and this is very likely to happen!) please make sure 
 
 Some of the issues you might have had:
 
-- In the terminal, you're not in the same directory where you have saved the `hello_world.cpp` file. You can check for it by running the `ls` command in the terminal. If the file is not there, the best option is to close the current terminal, open a new one and redo the steps above.
+- In the terminal, you're not in the same directory where you have saved the `hello_world.cpp` file. You can check for it by running the `ls` command in the terminal. If the file is not there, the best option is to close the current terminal, open a new one and redo the steps above
+- You forgot a ";" at a place where it was needed or put it in a place where it is not allowed.
 
 ### What has happened?
 
@@ -90,6 +93,8 @@ The are two other important parts of this first program:
 - `;`: each command must be terminated by a `;`; the definition of `main()` and the `#include` are not commands.
 
 ## Source code and executables
+
+"C++ is a compiled language. That maeans that to get a program to run, you must first translate it from the humnan readable form to something a machine can understand. That translation is done by a program called a compiler"
 
 ## Writing good source code
 
@@ -161,6 +166,7 @@ sudo apt-get install g++
 - (Eclipse ?)
 - cygwin
 - virtualbox with a linux distributino
+- docker?
 
 ## Using a text editor
 
@@ -179,3 +185,44 @@ for more link to a real terminal manual.
 Text file: A text file is a file that only contains text. It cannot contain any formatting. You need a [text editor](#glossary-text-editor) for creating and modifying text files.
 
 Text editor: A text editor is a program that allows you to edit text files. Some well known text editors are `vim`, `emacs`, `sublime text`, `GEdit`, `Notepad+`. Microsoft Word and Libreoffice are not text editors.
+
+
+## Notes from Parisa's presentation on chapter 3
+
+### 3.2
+
+"Object: A region of memory with a _type_ that specifies what kind of information can be placed in it."
+
+"Variable: a named _object_ with a specified _type_"
+
+Some types:
+- int
+- double
+- string
+- char
+- bool
+
+### Input
+
+- cin: standard input stream (_c_haracter _i_input)
+- >> 
+
+### Operators
+
+use the table 
+
+### Assignement and initialization
+
+- Declaration: setting the type of a variable and reserve memory for it.
+- Initialization: Declaration of a variable and setting its first value.
+- Assignement: Giving a declared variable a new value.
+
+### Names
+
+- Camelcase or hungarian
+- don't use reserved words
+
+## Codenvy
+
+- IDE in the cloud.
+- http://codenvy.com
