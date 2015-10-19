@@ -167,6 +167,12 @@ sudo apt-get install g++
 - cygwin
 - virtualbox with a linux distributino
 - docker?
+- notedpad++ and mingw?
+  - <http://stackoverflow.com/questions/28131276/getting-notepad-to-compile-and-run-c-programs-using-mingw>
+
+Other:
+
+- Code::Blocks and mingw
 
 ## Using a text editor
 
