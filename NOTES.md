@@ -200,10 +200,13 @@ You need a compiler
 A text editor:
 - `GEdit` on Gnome / `Kate` on KDE
 - `leafpad` (GTK, very basic)
-- `sublime text`
+- `sublime text` (not free)
 - `atom` (?)
 - `vim` / `emacs`
 - `jedit` (multiplatform)
+- `geany`?
+- http://codelite.org/ ?
+- anjuta ?
 
 #### Debian / Ubuntu
 
@@ -219,6 +222,15 @@ sudo apt-get install g++
 - cygwin
 - virtualbox with a linux distribution
 - docker?
+- notedpad++ and mingw?
+  - <http://stackoverflow.com/questions/28131276/getting-notepad-to-compile-and-run-c-programs-using-mingw>
+- qt creator and mingw?
+- http://codelite.org/ ?
+  - http://codelite.org/LiteEditor/InstallingMinGW
+
+Other:
+
+- Code::Blocks and mingw
 
 ## Programs, Programmers, and Programming Language
 
