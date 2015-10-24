@@ -345,3 +345,11 @@ use the table
 
 - IDE in the cloud.
 - http://codenvy.com
+
+
+## Moar
+
+>> Most people fall off the wagon because they don’t understand the mind of the computer and, as such, find translating their intent into programming language hopelessly difficult.
+>>
+>> Put succinctly, coding is writing text files in foreign languages containing instructions suitable for an absolute idiot to follow. Unlike human readers, computers cannot infer meaning from ambiguous text. So, to code, one must become very good at deconstructing problems into their most basic steps and spelling them out for the idiot box.
+>> http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/
