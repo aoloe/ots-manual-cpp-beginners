@@ -1,0 +1,112 @@
+# Learnign modern C++
+
+I found  the CppCon 2015 talk _Stop Teaching C_ by Kate Gregory, very inspiring. Sadly, there seem not to be any introductory book following the best practices she outlines.
+
+On the [pluralsight.com](http://pluralisight.com/) i could find the video course [Learn How to Program with C++](http://app.pluralsight.com/courses/learn-programming-cplusplus) by the Kate Gregory.  
+As an inspiration, here is most of her table of contents:
+
+- Getting started
+  - Introduction
+  - Course Overview
+  - Module Overview
+  - Text Becomes Executable
+  - Tools
+  - Demo: Tools
+  - Command Line
+  - Smallest C++ App
+  - Demo: Smallest C++ App
+  - Errors
+  - Demo: Errors
+  - Summary
+- Streams, Locals, and Flow of Control
+  - Introduction
+  - Libraries
+  - Stream I/O
+  - Demo: Stream I/O
+  - Exercise: Stream I/O
+  - Include
+  - Local Variables
+  - Demo: Local Variables
+  - Type Safety
+  - Flow of Control
+  - Demo: Flow of Control
+  - Exercise: Guess My Number
+  - Summary
+- Functions and Headers
+  - Introduction
+  - Functions
+  - Demo: Functions
+  - Type Safety
+  - Overloads
+  - Demo: Overloads
+  - Multiple Files
+  - Demo: Multiple Files
+  - Header Files
+  - Demo: Header Files
+  - Errors and Mistakes
+  - Demo: Compiler and Linker Errors
+  - Summary
+- Strings and Collections
+  - Introduction
+  - Objects and Classes
+  - Strings
+  - Demo: Strings
+  - String Manipulation
+  - Demo: String Manipulation
+  - Exercise: String Manipulation
+  - Vector
+  - Demo: vector
+  - More on vector
+  - Behind More Curtains
+  - Summary
+- Writing Classes
+  - Introduction
+  - A Class of Your Own
+  - Design
+  - Coding a Class
+  - Organizing Files
+  - Demo: Simple Classes
+  - Inline Functions
+  - Demo: Inline Functions
+  - Encapsulation
+  - Demo: Encapsulation
+  - Creating Instances
+  - There's More ... Later
+  - Summary
+- Compiler Specific Topics
+  - Introduction
+  - Command Line Parameters
+  - Visual Studio
+  - Demo: Visual Studio
+  - Make Files
+  - Demo: Using Make
+  - Summary
+- Topics to Learn Later
+  - Introduction
+  - Lots of Syntax
+  - Debugging
+  - Casting
+  - Demo: Casting
+  - The const Keyword
+  - Demo: const
+  - The Standard Library
+  - Demo: The Standard Library
+  - Passing Parameters
+  - Demo: Passing Parameters
+  - Managing Resources
+  - Scope
+  - To Learn Elsewhere
+  - Minor Details
+  - Summary
+- Legacy Constructs
+  - Introduction
+  - Legacy Code
+  - What is Old Style?
+  - Casting
+  - Macros
+  - C Style Arrays
+  - C Style Strings
+  - Printf
+  - Typedef
+  - Pointers
+  - Summary
