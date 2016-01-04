@@ -1,5 +1,9 @@
 # Notes
 
+## Possible inspiration sources
+
+http://www.learncpp.com/
+
 ## Introduction
 
 TODO: eventually pull in here a few lines from the [Programs, Programmers, and Programming language](#programs-programmers-and-programming-language) chapter.
