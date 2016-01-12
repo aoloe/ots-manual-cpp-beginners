@@ -350,6 +350,12 @@ use the table
 - IDE in the cloud.
 - http://codenvy.com
 
+## IDEs
+
+- codeblocks
+- codelite
+
+both are ok good and multiplatform
 
 ## Moar
 
