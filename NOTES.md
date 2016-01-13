@@ -8,6 +8,8 @@ http://www.learncpp.com/
 
 TODO: eventually pull in here a few lines from the [Programs, Programmers, and Programming language](#programs-programmers-and-programming-language) chapter.
 
+"And technical people are basically the only ones who actually know how to write things in detailed and unambiguous enough way - it's something you can't really learn without trying and learning just "how dumb computers are" - which actually means, "how many things people implicitly assume to be self-explanatory or common knowledge". [TeMPOraL@HN](https://news.ycombinator.com/item?id=10891969)
+
 ## Requirements
 
 In order to best enjoy this manual a few requirements should be met:
