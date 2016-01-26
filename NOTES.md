@@ -367,3 +367,9 @@ both are ok good and multiplatform
 >>
 >> Put succinctly, coding is writing text files in foreign languages containing instructions suitable for an absolute idiot to follow. Unlike human readers, computers cannot infer meaning from ambiguous text. So, to code, one must become very good at deconstructing problems into their most basic steps and spelling them out for the idiot box.
 >> http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/
+
+# Windows
+
+## Visual Studio
+
+- using cmake with visual studio: <https://cognitivewaves.wordpress.com/cmake-and-visual-studio/>
