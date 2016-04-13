@@ -181,6 +181,7 @@ In this section we will make sure that you have installed everything you need on
   - creating a new project:
     - the Xcode application is not located in your applications folder, but in the Developer directory. Its location is Macintosh HD/Developer/Applications/Xcode
     - In File select "New Project", select the "Command Line Utility" drop down item (not the "Application" one), select "C++ Tool" and click next. Give your project a name -- "helloworld" -- and specify a place to save your project. Now click finish and you project be ready. 
+   - One of the files in the window should jump out at you right away and that is main.cpp. Double click it to open it in the editor. As you can see it has a very simple Hello World application in it, and this is where you will put your project's code. Now lets compile and run our Hello World program. Click on the build button at the top left of the editor window. If it asks you to save just click save all and it will compile. Now go to your "Project Organizer" window and then double click the executable file which in this case is just "hello" without any file extension. A terminal window should now open and your program should run. Now you know how to program in C++ on a Mac!
 
 #### Windows
 
