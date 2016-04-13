@@ -8,6 +8,10 @@ http://www.learncpp.com/
 
 TODO: eventually pull in here a few lines from the [Programs, Programmers, and Programming language](#programs-programmers-and-programming-language) chapter.
 
+"And technical people are basically the only ones who actually know how to write things in detailed and unambiguous enough way - it's something you can't really learn without trying and learning just "how dumb computers are" - which actually means, "how many things people implicitly assume to be self-explanatory or common knowledge". [TeMPOraL@HN](https://news.ycombinator.com/item?id=10891969)
+
+"Developers are good at creating mental models of how the system probably works underneath. Non-developer users usually don't do this. If you're making a product for non-developer users, your subconscious tendency to model the system is a disadvantage, because you won't have a reliable sense for what's intuitive and what's not. If an abstraction leaks, you'll see straight through it and manipulate what's under the abstraction; a non-developer user will continue to try to manipulate the abstraction itself." [geofft@HN](https://news.ycombinator.com/item?id=10891300)
+
 ## Requirements
 
 In order to best enjoy this manual a few requirements should be met:
@@ -369,3 +373,9 @@ both are ok good and multiplatform
 >>
 >> Put succinctly, coding is writing text files in foreign languages containing instructions suitable for an absolute idiot to follow. Unlike human readers, computers cannot infer meaning from ambiguous text. So, to code, one must become very good at deconstructing problems into their most basic steps and spelling them out for the idiot box.
 >> http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/
+
+# Windows
+
+## Visual Studio
+
+- using cmake with visual studio: <https://cognitivewaves.wordpress.com/cmake-and-visual-studio/>
