@@ -177,6 +177,11 @@ In this section we will make sure that you have installed everything you need on
 
 #### OS X
 
+- XCode
+  - creating a new project:
+    - the Xcode application is not located in your applications folder, but in the Developer directory. Its location is Macintosh HD/Developer/Applications/Xcode
+    - In File select "New Project", select the "Command Line Utility" drop down item (not the "Application" one), select "C++ Tool" and click next. Give your project a name -- "helloworld" -- and specify a place to save your project. Now click finish and you project be ready. 
+
 #### Windows
 
 On Windows you have a two ways:
