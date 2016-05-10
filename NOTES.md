@@ -246,6 +246,16 @@ Other:
 
 - Code::Blocks and mingw
 
+### Ubuntu in a Virtualbox
+
+- tweaks to make ubuntu's UI faster: http://askubuntu.com/questions/689602/disable-all-visual-effects-in-ubuntu-15-10
+- don't forget to plug you computer: windows might slow down the computer when on battery
+
+## OS X
+
+- install cmake from the package
+- in one of the menus you can get the command to activate cmake in terminal
+
 ## Programs, Programmers, and Programming Language
 
 "Why C++? You can’t learn to program without a programming language, and C++ directly supports the key concepts and techniques used in real-world software. C++ is one of the most widely used programming languages, found in an unsurpassed range of application areas."
