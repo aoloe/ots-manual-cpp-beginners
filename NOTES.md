@@ -389,3 +389,43 @@ both are ok good and multiplatform
 ## Visual Studio
 
 - using cmake with visual studio: <https://cognitivewaves.wordpress.com/cmake-and-visual-studio/>
+
+
+# Learning to code or not learning to code
+
+## on hackernews:
+
+https://news.ycombinator.com/item?id=11675138
+
+http://techcrunch.com/2016/05/10/please-dont-learn-to-code/
+
+##imgabe:
+
+ I never interpreted "everyone should learn to code" to mean "everyone should get a job as a software developer". Coding is a highly useful skill that can be applied in many professions. It doesn't mean everyone has to write professional quality software in the hottest language du jour.
+
+"Learning to code" just means recognizing when a problem can be solved by applying a discrete series of repeatable steps and then learning how to tell the computer to do those steps rather than doing it yourself. The productivity boost we could get just by eliminating people manually copying and pasting (or, dear god, re-typing) things from one spreadsheet to another would be enormous, let alone other applications.
+
+
+## superqd
+
+Exactly this. I think the article misunderstands, and/or misinterprets, the Learn To Code "movement". It's not a call to enlist more people as software engineers, it's a desire to teach powerful problem solving techniques and tools to everyone.
+
+## cm2187
+
+I was about to make the exact same comment. People should automate their most boring and mindless tasks, that's the only way to achieve large further productivity gains. It's never going to be economical to pay a developer salary full time to analyse and automate everyone's little tasks. But for that coding needs to be simpler, easier to do occasionally. 
+
+## ThomPete
+
+This advice is as good as someone saying "please don't learn to play music".
+
+Not only is is bad advice since there is obviously value in learning to play music even though you are never going to become a professional musician.
+
+But saying don't learn to code it's like saying "please don't learn this category of language which will make you able to communicate with the very ecosystem that is increasingly dominating your life.
+
+It's like saying. "Please be illiterate in the most important language you can learn besides your native one for the future"
+
+In Denmark there is an expression "fagidiot" meaning idiot of their trade. I.e. people who are so puritan about what they do that any mistake is considered almost fatal.
+
+It's like going to the movies with your friends from the army who can't enjoy a war movie because a gun doesn't really sound like that or you can't fire that many rounds of your M-16.
+
+The probper advice is of course' "Please learn everything you consider interesting, and keep learning even if you suck at it and will never become a professional. Learning something means growing as a person."
